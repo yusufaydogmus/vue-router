@@ -1,0 +1,28 @@
+{
+  "bookmarks": [
+    {
+      "title": "başlık 1",
+      "url": "url 1 ",
+      "description": "aciklama 1 ",
+      "id": 1
+    },
+    {
+      "title": "google",
+      "url": "https://google.com.tr",
+      "description": "asd",
+      "id": 2
+    },
+    {
+      "title": "harmony",
+      "url": "harmony.com",
+      "description": "harmony\n",
+      "id": 3
+    },
+    {
+      "title": "asd",
+      "url": "sadasd",
+      "description": "sadsad",
+      "id": 4
+    }
+  ]
+}
